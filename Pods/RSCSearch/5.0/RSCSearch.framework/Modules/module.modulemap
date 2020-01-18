@@ -1,0 +1,11 @@
+framework module RSCSearch {
+  umbrella header "RSCSearch.h"
+
+  export *
+  module * { export * }
+}
+
+module RSCSearch.Swift {
+    header "RSCSearch-Swift.h"
+    requires objc
+}

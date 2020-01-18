@@ -1,0 +1,39 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireImage (3.6.0):
+    - Alamofire (~> 4.9)
+  - AlamofireObjectMapper (5.2.1):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - DownloadManager (4.0)
+  - ObjectMapper (3.5.1)
+  - RSCSearch (5.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - AlamofireObjectMapper
+  - DownloadManager (~> 5.0)
+  - RSCSearch (~> 5.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - AlamofireImage
+    - AlamofireObjectMapper
+    - ObjectMapper
+  https://github.com/Srider/podspec.git:
+    - DownloadManager
+    - RSCSearch
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireImage: be9963c6582d68b39e89191f64c82a7d7bf40fdd
+  AlamofireObjectMapper: 1989f690e982b71921b9253f53a4f33a9bc00d88
+  DownloadManager: ca5200791af7ebeb10b9daeb1e58c58469083e84
+  ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
+  RSCSearch: 5121e9d29e39d0b4f4ebd3ff437ffea9aa03e07b
+
+PODFILE CHECKSUM: e79796484745dcf2cd52c7f7afab95c474378b31
+
+COCOAPODS: 1.8.4
